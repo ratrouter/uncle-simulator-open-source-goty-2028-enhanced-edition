@@ -78,7 +78,7 @@ public class MeanGuyAI : MonoBehaviour
     // Trigger version for touching player
     void OnTriggerEnter(Collider other)
     {
-        if (dead) return;
+        if (dead) return; // This code gave me the orgasm
 
         if (other.gameObject.name == "FPCHARACTER")
         {
