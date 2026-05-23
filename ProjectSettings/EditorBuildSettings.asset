@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/the beginnings.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/secret.unity
+    guid: 84460cb918455c548ba8c204ce4d293f
+  - enabled: 1
+    path: Assets/Scenes/uncle1.unity
+    guid: deaf46e8622a7e64188175b55631796c
+  - enabled: 1
+    path: Assets/Scenes/wakeup.unity
+    guid: 143a4960a165b6342881d6984dbee35e
+  - enabled: 1
+    path: Assets/Scenes/nightmare.unity
+    guid: b0aab9d509290bc41a4d742b10f2b872
+  - enabled: 1
+    path: Assets/Scenes/gasser2.unity
+    guid: 5b5ad0d3c4b04824d929b93416d07743
+  - enabled: 1
+    path: Assets/Scenes/after nightmare.unity
+    guid: 41b1828a96b14b5419ed82f811c4b5ad
+  - enabled: 1
+    path: Assets/Scenes/gasser3.unity
+    guid: bbb11d42e16091645bcfc3b771f6c211
+  - enabled: 1
+    path: Assets/Scenes/uncle2.unity
+    guid: 7a10c01f9e7f98144b8fb24000eb8167
+  - enabled: 1
+    path: Assets/Scenes/uncle3.unity
+    guid: 4769b71d6029d1e4fa8b385521aa6cfb
+  - enabled: 1
+    path: Assets/Scenes/uncle4.unity
+    guid: 02bf5aeb182600c4da692b25a95cad8c
+  - enabled: 1
+    path: Assets/Scenes/gasser.unity
+    guid: 1cb22ba27bf36e1489a2e3765160080d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
