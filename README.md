@@ -16,9 +16,9 @@ the fortnite item shop is in stock :star_struck:-Ggoomba>br< oh shit i typed it 
 made using unity.6000.3.6f1
 
 
-INSTALLATION INSTRUCTIONS
-sudo pacman -S git-lfs
-while inside folder you want project in run
-git lfs install
-git clone https://github.com/ratrouter/uncle-simulator-open-source-goty-2028-enhanced-edition/
-and add new project from unity
+INSTALLATION INSTRUCTIONS<br>
+sudo pacman -S git-lfs<br>
+while inside folder you want project in run<br>
+git lfs install<br>
+git clone https://github.com/ratrouter/uncle-simulator-open-source-goty-2028-enhanced-edition/<br>
+and add new project from unity<br>
