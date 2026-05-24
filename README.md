@@ -19,6 +19,6 @@ made using unity.6000.3.6f1
 INSTALLATION INSTRUCTIONS<br>
 sudo pacman -S git-lfs<br>
 while inside folder you want project in run<br>
-git lfs install<br>
 git clone https://github.com/ratrouter/uncle-simulator-open-source-goty-2028-enhanced-edition/<br>
+git lfs install<br>
 and add new project from unity<br>
